@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 
 	"github.com/drone/drone-cli/drone/internal"
-	"github.com/drone/drone-yaml/yaml/signer"
+	"github.com/primait/drone-yaml/yaml/signer"
 	"github.com/urfave/cli"
 )
 

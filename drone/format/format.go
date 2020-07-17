@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/drone/drone-yaml/yaml"
-	"github.com/drone/drone-yaml/yaml/pretty"
+	"github.com/primait/drone-yaml/yaml"
+	"github.com/primait/drone-yaml/yaml/pretty"
 	"github.com/urfave/cli"
 )
 

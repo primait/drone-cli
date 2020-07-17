@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/drone/drone-yaml/yaml/converter"
+	"github.com/primait/drone-yaml/yaml/converter"
 	"github.com/urfave/cli"
 )
 

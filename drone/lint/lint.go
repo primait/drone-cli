@@ -1,8 +1,8 @@
 package lint
 
 import (
-	"github.com/drone/drone-yaml/yaml"
-	"github.com/drone/drone-yaml/yaml/linter"
+	"github.com/primait/drone-yaml/yaml"
+	"github.com/primait/drone-yaml/yaml/linter"
 	"github.com/urfave/cli"
 )
 

@@ -9,10 +9,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/drone/drone-yaml/yaml"
-	"github.com/drone/drone-yaml/yaml/pretty"
 	"github.com/fatih/color"
 	"github.com/google/go-jsonnet"
+	"github.com/primait/drone-yaml/yaml"
+	"github.com/primait/drone-yaml/yaml/pretty"
 	"github.com/urfave/cli"
 )
 
